@@ -16,10 +16,6 @@ Desenvolvo pesquisa no **PIBIC** sobre a **atenuação de tremores Parkinsoniano
 - Estrutura de Dados
 - Organização e Arquitetura de Computadores
 
-#### Habilidades Técnicas:
-- **Linguagens de Programação:** Python, JavaScript
-- **Desenvolvimento Web:** HTML5, CSS3
-
 #### Idiomas:
 - **Inglês:** Fluente
 - **Espanhol:** Fluente
