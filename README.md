@@ -8,6 +8,8 @@ Atualmente, estou aplicando estratégias inovadoras para atrair novos membros pa
 ### 🔬 **Iniciação Científica**
 Desenvolvo pesquisa no **PIBIC** sobre a **atenuação de tremores Parkinsonianos**, em colaboração com o **Grupo de Dinâmica de Sistemas (GDS)** da UnB.
 
+Desenvolvo pesquisa no **PIT** sobre a **Robô que faz exames no interior do corpo usando agulha para fins minimamente invasivos**, em colaboração com o **Laboratório de Robótica e Automação (LARA)** da UnB.
+
 ### 📚 **Educação**
 **Estudante de Engenharia Mecatrônica na UnB**
 
