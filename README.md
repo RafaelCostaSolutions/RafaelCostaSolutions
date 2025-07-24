@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 ### 🎯 **Marketing**
-Atualmente, estou aplicando estratégias inovadoras para atrair novos membros para o capítulo estudantil da **EMBS (IEEE Engineering in Medicine and Biology)** do IEEE. Foco em projetos de divulgação nas redes sociais, impulsionando nossa presença e engajamento online.
+Como Ex-membro do capítulo estudantil da **EMBS (IEEE Engineering in Medicine and Biology) do IEEE** estive aplicando estratégias inovadoras para atrair novos membros para o ramo. Desenvolvi ações com foco em projetos de divulgação nas redes sociais, impulsionando nossa presença e engajamento online.
 
 ### 🔬 **Iniciação Científica**
 Desenvolvo pesquisa no **PIBIC** sobre a **atenuação de tremores Parkinsonianos**, em colaboração com o **Grupo de Dinâmica de Sistemas (GDS)** da UnB.
