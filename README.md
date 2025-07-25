@@ -11,7 +11,7 @@ I'm conducting research at **PIBIC** on the attenuation of Parkinsonian tremors*
 I'm conducting research at **PIT** on a **robot that performs examinations inside the body using a needle for minimally invasive purposes**, in collaboration with the **Robotics and Automation Laboratory (LARA)** at UnB.
 
 ### 📚 **Education**
-**Mechatronics Engineering Student at UnB**
+**Mechatronics Engineering Student at (Universidade de Brasília)UnB**
 
 #### Academic Knowledge:
 - Algorithms and Computer Programming
