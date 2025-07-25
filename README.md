@@ -1,26 +1,26 @@
-# Olá! Bem-vindo ao meu repositório! 🚀
+# Hello! Welcome to my repository! 🚀
 
-## Sobre Mim
+## About Me
 
 ### 🎯 **Marketing**
-Como Ex-membro do capítulo estudantil da **EMBS (IEEE Engineering in Medicine and Biology) do IEEE** estive aplicando estratégias inovadoras para atrair novos membros para o ramo. Desenvolvi ações com foco em projetos de divulgação nas redes sociais, impulsionando nossa presença e engajamento online.
+As a former member of the IEEE Engineering in Medicine and Biology (EMBS) student chapter, I've been applying innovative strategies to attract new members to the field. I've developed initiatives focused on social media outreach projects, boosting our online presence and engagement.
 
-### 🔬 **Iniciação Científica**
-Desenvolvo pesquisa no **PIBIC** sobre a **atenuação de tremores Parkinsonianos**, em colaboração com o **Grupo de Dinâmica de Sistemas (GDS)** da UnB.
+### 🔬 **Scientific Initiation**
+I'm conducting research at **PIBIC** on the attenuation of Parkinsonian tremors**, in collaboration with the **Systems Dynamics Group (GDS)** at UnB.
 
-Desenvolvo pesquisa no **PIT** sobre a **Robô que faz exames no interior do corpo usando agulha para fins minimamente invasivos**, em colaboração com o **Laboratório de Robótica e Automação (LARA)** da UnB.
+I'm conducting research at **PIT** on a **robot that performs examinations inside the body using a needle for minimally invasive purposes**, in collaboration with the **Robotics and Automation Laboratory (LARA)** at UnB.
 
-### 📚 **Educação**
-**Estudante de Engenharia Mecatrônica na UnB**
+### 📚 **Education**
+**Mechatronics Engineering Student at UnB**
 
-#### Conhecimentos Acadêmicos:
-- Algoritmos e Programação de Computadores
-- Estrutura de Dados
-- Organização e Arquitetura de Computadores
+#### Academic Knowledge:
+- Algorithms and Computer Programming
+- Data Structures
+- Computer Organization and Architecture
 
-#### Idiomas:
-- **Inglês:** Fluente
-- **Espanhol:** Fluente
+#### Languages:
+- **English:** Fluent
+- **Spanish:** Fluent
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
